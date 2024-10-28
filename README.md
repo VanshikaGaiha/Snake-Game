@@ -1,0 +1,1 @@
+A simple yet classic Snake Game built using HTML, CSS, and JavaScript. The player controls the snake to collect food, growing in length with each piece of food eaten. The game ends when the snake hits the wall or collides with itself.
